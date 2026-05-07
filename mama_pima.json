@@ -1,0 +1,21 @@
+{
+    "restaurant_name": "Mama Pima Restaurant",
+    "location": "Kariakoo, Dar es Salaam",
+    "phone": "0712 345 678",
+    "open": "7:00am",
+    "close": "10:00pm",
+    "delivery": true,
+    "delivery_areas": ["Kariakoo", "Ilala", "Kinondoni"],
+    "menu": [
+        {"name": "Pilau", "price": 5000, "available": true},
+        {"name": "Wali wa Nazi", "price": 4000, "available": true},
+        {"name": "Chips Mayai", "price": 3500, "available": true},
+        {"name": "Ugali na Samaki", "price": 6000, "available": true},
+        {"name": "Biriyani", "price": 7000, "available": true},
+        {"name": "Juice ya Matunda", "price": 2000, "available": true},
+        {"name": "Chai", "price": 500, "available": true},
+        {"name": "Maji", "price": 500, "available": true}
+    ],
+    "daily_special": "Biriyani ya Kuku - punguzo la 20% leo tu!",
+    "delivery_fee": 2000
+}
