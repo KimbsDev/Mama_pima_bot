@@ -1,21 +1,23 @@
 {
-    "restaurant_name": "Mama Pima Restaurant",
-    "location": "Kariakoo, Dar es Salaam",
-    "phone": "0712 345 678",
-    "open": "7:00am",
-    "close": "10:00pm",
-    "delivery": true,
-    "delivery_areas": ["Kariakoo", "Ilala", "Kinondoni"],
-    "menu": [
-        {"name": "Pilau", "price": 5000, "available": true},
-        {"name": "Wali wa Nazi", "price": 4000, "available": true},
-        {"name": "Chips Mayai", "price": 3500, "available": true},
-        {"name": "Ugali na Samaki", "price": 6000, "available": true},
-        {"name": "Biriyani", "price": 7000, "available": true},
-        {"name": "Juice ya Matunda", "price": 2000, "available": true},
-        {"name": "Chai", "price": 500, "available": true},
-        {"name": "Maji", "price": 500, "available": true}
-    ],
-    "daily_special": "Biriyani ya Kuku - punguzo la 20% leo tu!",
-    "delivery_fee": 2000
+  "restaurant_name": "Mama Pima Restaurant",
+  "location": "Dar es Salaam, Tanzania",
+  "phone": "+255 712 345 678",
+  "open": "07:00",
+  "close": "22:00",
+  "delivery": true,
+  "delivery_areas": ["Kinondoni", "Ilala", "Temeke", "Kijitonyama", "Mikocheni"],
+  "delivery_fee": 2000,
+  "daily_special": "Ugali na Mchuzi wa Samaki",
+  "menu": [
+    {"name": "Ugali na Nyama", "price": 5000},
+    {"name": "Ugali na Samaki", "price": 6000},
+    {"name": "Pilau", "price": 7000},
+    {"name": "Biryani", "price": 8000},
+    {"name": "Chips Mayai", "price": 4000},
+    {"name": "Chips na Kuku", "price": 8000},
+    {"name": "Mishkaki", "price": 3000},
+    {"name": "Juice ya Matunda", "price": 2000},
+    {"name": "Chai", "price": 500},
+    {"name": "Soda", "price": 1000}
+  ]
 }
